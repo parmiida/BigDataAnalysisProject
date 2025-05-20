@@ -39,10 +39,6 @@ The output includes the following fields:
 - `value_diff`
 - `detection` (1 for anomaly, 0 otherwise)
 
-## ⚠️ Limitations
-- The current detection method is basic and purely threshold-based.
-- The accuracy of this approach is limited and may result in false positives or negatives.
+## 📂 Project Files
+The complete documentation, along with the source code and dataset used for analysis is included.
 
-## 🚀 Future Improvements
-- Use statistical or machine learning-based anomaly detection techniques.
-- Store the results in a persistent sink (e.g., database or file system).
